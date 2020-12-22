@@ -1,0 +1,17 @@
+<svg width="316" height="321" xmlns="http://www.w3.org/2000/svg" clip-rule="evenodd">
+ <defs>
+  <style type="text/css">.fil0 {fill:black}</style>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="323" width="318" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <path fill="#00ff00" id="svg_2" d="m60,216.34521c-33,0 -60,23 -60,52c0,29 27,52 60,52c33,0 60,-23 60,-52c0,-38 0,-77 0,-115l170,-42l0,73c-9,-6 -21,-9 -33,-9c-33,0 -60,23 -60,52c0,29 27,52 60,52c33,0 60,-23 60,-52l0,-214c0,-8 -8,-15 -17,-13l-196,49c-6,1 -10,7 -10,13l0,163c-10,-6 -22,-9 -34,-9zm60,-90l0,-54l170,-42l0,54l-170,42zm137,127c-19,0 -34,-12 -34,-26c0,-14 15,-26 34,-26c18,0 33,12 33,26c0,14 -15,26 -33,26zm-197,41c-19,0 -34,-12 -34,-26c0,-14 15,-26 34,-26c18,0 34,12 34,26c0,14 -16,26 -34,26z" class="fil0"/>
+  </g>
+  <text id="svg_3" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif" font-weight="bold" font-size="5px" fill="#000000" y="335" x="0">Created by Saifurrijal</text>
+  <text id="svg_4" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif" font-weight="bold" font-size="5px" fill="#000000" y="340" x="0">from the Noun Project</text>
+ </g>
+</svg>
